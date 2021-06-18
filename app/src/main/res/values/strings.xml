@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="poster_of_movie">movie poster</string>
+    <string name="movie_poster">MoviePoster</string>
+    <string name="title_label">Название:</string>
+    <string name="original_title_label">Оригинальное название:</string>
+    <string name="rait_label">Рейтинг:</string>
+    <string name="date_label">Дата релиза:</string>
+    <string name="description_label">Описание:</string>
+
+</resources>
